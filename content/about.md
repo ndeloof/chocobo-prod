@@ -1,7 +1,8 @@
----
-title: "About"
-date: 2018-03-18T11:43:34+01:00
-draft: true
----
++++
+title = "Votre partenaire événementiel"
+date = "2017-06-27T17:39:21-07:00"
+draft = false
++++
 
-About ...
+Notre équipe est riche de 10 ans d'organisation d'événements communautaires. Nous avons développé nos propres solutions 
+de captation et diffusion audio-visuelle, billetterie, organisation de conféfence.
