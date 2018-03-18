@@ -1,0 +1,9 @@
+[submodule "hugo-theme-massively"]
+	path = hugo-theme-massively
+	url = https://github.com/curttimson/hugo-theme-massively
+[submodule "themes/massively"]
+	path = themes/massively
+	url = https://github.com/curttimson/hugo-theme-massively
+[submodule "themes/osprey"]
+	path = themes/osprey
+	url = https://github.com/tomanistor/osprey

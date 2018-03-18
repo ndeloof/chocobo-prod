@@ -1,0 +1,44 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "osprey"
+
+
+[Params]
+    tagline = "Chocobo prod"
+    author = "Nicolas De Loof"
+    description = "Votre partenaire événementiel"
+    logoBig = "/chocobo.png"
+    logoSmall = "/chocobo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/chocobo.png"
+    twitter = "ndeloof"
+    linkedin = "ndeloof"
+    github = "ndeloof"
+    facebook = ""
+    email = ""
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Work"
+    url  = "/#work"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
