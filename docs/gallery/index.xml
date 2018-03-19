@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chocobo prod</title>
-    <link>http://www.chocobo-prod.com/</link>
-    <description>Recent content on Chocobo prod</description>
+    <title>Galleries on Chocobo prod</title>
+    <link>http://www.chocobo-prod.com/gallery/</link>
+    <description>Recent content in Galleries on Chocobo prod</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 27 Jun 2017 17:39:21 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 22:25:16 -0700</lastBuildDate>
     
-	<atom:link href="http://www.chocobo-prod.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.chocobo-prod.com/gallery/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Votre partenaire événementiel</title>
-      <link>http://www.chocobo-prod.com/about/</link>
-      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
-      
-      <guid>http://www.chocobo-prod.com/about/</guid>
-      <description>Notre équipe est riche de 10 ans d&amp;rsquo;organisation d&amp;rsquo;événements communautaires. Nous avons développé nos propres solutions de captation et diffusion audio-visuelle, billetterie, organisation de conféfence.</description>
-    </item>
     
     <item>
       <title>Video</title>
