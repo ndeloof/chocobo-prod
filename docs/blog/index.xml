@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Chocobo prod</title>
+    <link>http://www.chocobo-prod.com/blog/</link>
+    <description>Recent content in Blogs on Chocobo prod</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 19 Mar 2018 09:31:01 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.chocobo-prod.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breizhcamp 2018</title>
+      <link>http://www.chocobo-prod.com/blog/breizhcamp-2018/</link>
+      <pubDate>Mon, 19 Mar 2018 09:31:01 +0100</pubDate>
+      
+      <guid>http://www.chocobo-prod.com/blog/breizhcamp-2018/</guid>
+      <description>Rendez-vous au BreizhCamp 2018 pour voir notre solution de captation vidéo mise en oeuvre sur le terrain, et aussi découvrir notre créativité pour une thématique &amp;ldquo;Retour vers le Futur&amp;rdquo; sur ce qui est devenu un événement phare du grand-ouest.</description>
+    </item>
+    
+  </channel>
+</rss>

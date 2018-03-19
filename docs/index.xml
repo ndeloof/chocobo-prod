@@ -6,10 +6,19 @@
     <description>Recent content on Chocobo prod</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 27 Jun 2017 17:39:21 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 09:31:01 +0100</lastBuildDate>
     
 	<atom:link href="http://www.chocobo-prod.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Breizhcamp 2018</title>
+      <link>http://www.chocobo-prod.com/blog/breizhcamp-2018/</link>
+      <pubDate>Mon, 19 Mar 2018 09:31:01 +0100</pubDate>
+      
+      <guid>http://www.chocobo-prod.com/blog/breizhcamp-2018/</guid>
+      <description>Rendez-vous au BreizhCamp 2018 pour voir notre solution de captation vidéo mise en oeuvre sur le terrain, et aussi découvrir notre créativité pour une thématique &amp;ldquo;Retour vers le Futur&amp;rdquo; sur ce qui est devenu un événement phare du grand-ouest.</description>
+    </item>
     
     <item>
       <title>Votre partenaire événementiel</title>
