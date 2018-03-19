@@ -4,7 +4,6 @@ title = "Chocobo prod"
 theme = "osprey"
 publishDir = "docs"
 
-
 [Params]
     tagline = "Chocobo prod"
     author = "Nicolas De Loof"
@@ -22,7 +21,7 @@ publishDir = "docs"
     highlightJS = true
     copyright = true
     credit = true
-    customCSS = false
+    customCSS = true
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = true
